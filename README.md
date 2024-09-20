@@ -2,7 +2,7 @@
 🍰 1997/03/09<br>
 🌱 Hyogo<br>
 <h3 align="left">hobby</h3>
-⚾️🐎♠️♨️⛳️
+⚾️🐯🐎♠️♨️⛳️
 <h3 align="left">skill</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
