@@ -1,9 +1,9 @@
-<h3 align="left">プロフィール</h3>
+<h3 align="left">profile</h3>
 🍰 1997/03/09<br>
-🌱 兵庫県<br>
-<h3 align="left">趣味</h3>
+🌱 Hyogo<br>
+<h3 align="left">hobby</h3>
 ⚾️🐎♠️♨️⛳️
-<h3 align="left">スキル</h3>
+<h3 align="left">skill</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
